@@ -1,6 +1,6 @@
 # spacetonic
 
-A new Flutter project.
+***A BMI Calculator App made using Flutter!!***
 
 ## Getting Started
 
